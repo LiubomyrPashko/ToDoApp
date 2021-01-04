@@ -6,4 +6,4 @@ Can be used to manage your time and things to do. </br>
 
 To run application enter "npm run dev" in terminal
 
-[!text](https://github.com/LiubomyrPashko/ToDoApp/blob/master/screenshots/Знімок%20екрана%202021-01-04%20о%2021.58.02.png)
+![text](https://github.com/LiubomyrPashko/ToDoApp/blob/master/screenshots/Знімок%20екрана%202021-01-04%20о%2021.58.02.png)
