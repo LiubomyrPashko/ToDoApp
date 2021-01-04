@@ -1,0 +1,24 @@
+.card-container {
+  display: flex;
+  align-content: space-between;
+  flex-direction: column;
+  justify-content: center;
+  width: 16rem;
+  margin: 1rem 1rem;
+}
+
+.cardHeader {
+  display: flex;
+  justify-content: space-between;
+}
+
+.close {
+  width: 2rem;
+  height: 2rem;
+}
+.title {
+  height: 4rem;
+}
+.description {
+  height: 7rem;
+}
